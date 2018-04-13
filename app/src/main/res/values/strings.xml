@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="mainActivity_Text1">Introduzca su Direccion Ip</string>
+    <string name="mainActivity_ButtonName1">Buscar</string>
+    <string name="mainActivity_EditName2">Resutado de la búsqueda..</string>
+    <string name="splashActivity_DescriptionImage">Logo,jpg</string>
+</resources>
